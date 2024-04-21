@@ -2,6 +2,11 @@
 
 Este repositório contém um arquivo de Power BI desenvolvido como parte de uma atividade da plataforma de aprendizado Digital Innovation One (DIO). O objetivo desta atividade foi realizar uma análise de dados utilizando o Power BI, uma ferramenta poderosa para visualização e análise de informações.
 
+## Screenshots
+
+![Screenshot Página 1](https://github.com/pedrolporto/power_bi_analyst/assets/28610184/77b32abb-5996-4910-a26b-469e2ca743b9)
+![Screenshot Página 2](https://github.com/pedrolporto/power_bi_analyst/assets/28610184/4dc66336-bc29-4eb4-a63a-bba638d70690)
+
 ## Descrição do Projeto
 
 O arquivo "Analise_Dados_Power_BI.pbix" é um arquivo de projeto do Power BI que contém visualizações e análises baseadas em dados fornecidos pela DIO. O conjunto de dados utilizado neste projeto inclui informações relevantes para o negócio em questão e foi fornecido como parte do curso ou da atividade.
@@ -19,3 +24,5 @@ Este projeto foi desenvolvido como parte de uma atividade da plataforma DIO e at
 ## Licença
 
 Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+
+
