@@ -4,8 +4,9 @@ Este repositório contém um arquivo de Power BI desenvolvido como parte de uma 
 
 ## Screenshots
 
-![Screenshot Página 1](https://github.com/pedrolporto/power_bi_analyst/assets/28610184/77b32abb-5996-4910-a26b-469e2ca743b9)
-![Screenshot Página 2](https://github.com/pedrolporto/power_bi_analyst/assets/28610184/4dc66336-bc29-4eb4-a63a-bba638d70690)
+![Screenshot Página 1](https://github.com/pedrolporto/power_bi_analyst/assets/28610184/4dc66336-bc29-4eb4-a63a-bba638d70690)
+![Screenshot Página 2](https://github.com/pedrolporto/power_bi_analyst/assets/28610184/77b32abb-5996-4910-a26b-469e2ca743b9)
+
 
 ## Descrição do Projeto
 
