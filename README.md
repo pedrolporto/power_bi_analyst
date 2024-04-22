@@ -16,7 +16,7 @@ O arquivo "Relatorio_Criativo_Power_BI.pbix" é um arquivo de projeto do Power B
 
 Para visualizar e interagir com o arquivo de Power BI, você precisará ter o Power BI Desktop instalado em seu computador. Você pode baixar o Power BI Desktop gratuitamente no site oficial da Microsoft: [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
-Após instalar o Power BI Desktop, basta abrir o arquivo "Analise_Dados_Power_BI.pbix" e explorar as diferentes visualizações e análises disponíveis. Sinta-se à vontade para modificar e personalizar o arquivo conforme necessário para atender às suas necessidades específicas.
+Após instalar o Power BI Desktop, basta abrir o arquivo "Relatorio_Criativo_Power_BI.pbix" e explorar as diferentes visualizações e análises disponíveis. Sinta-se à vontade para modificar e personalizar o arquivo conforme necessário para atender às suas necessidades específicas.
 
 ## Contribuições
 
