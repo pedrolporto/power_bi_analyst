@@ -10,7 +10,7 @@ Este repositório contém um arquivo de Power BI desenvolvido como parte de uma 
 
 ## Descrição do Projeto
 
-O arquivo "Analise_Dados_Power_BI.pbix" é um arquivo de projeto do Power BI que contém visualizações e análises baseadas em dados fornecidos pela DIO. O conjunto de dados utilizado neste projeto inclui informações relevantes para o negócio em questão e foi fornecido como parte do curso ou da atividade.
+O arquivo "Relatorio_Criativo_Power_BI.pbix" é um arquivo de projeto do Power BI que contém visualizações e análises baseadas em dados fornecidos pela DIO. O conjunto de dados utilizado neste projeto inclui informações relevantes para o negócio em questão e foi fornecido como parte do curso ou da atividade.
 
 ## Como Utilizar
 
